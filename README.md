@@ -13,11 +13,37 @@
   
 ### Features:
 
-- `Roblox Cookie`🟢
-- `Roblox User name and pass`🟢
-- `Ip logger`🟢
-- `Discord token`🟢
-- `Pc spect`🟢
+- `Token`🟢
+- `Discord Name`🟢
+- `Google Passwords`🟢
+- `Google Cookies`🟢
+- `IP`🟢
+- `Phone Number`🟢
+- `Email`🟢
+- `If They Have Billing`🟢
+- `If They Have Nitro`🟢
+- `What OS They're Using`🟢
+- `RAM`🟢
+- `GPU`🟢
+- `CPU`🟢
+- `Injection`🟢
+- `Browser History`🟢
+- `Wifi Passwords`🟢
+- `Minecraft Session Info`🟢
+- `Epic Games Offline Data`🟢
+- `2FA Enabled Or Not`🟢
+- `Gift Inventory Codes`🟢
+- `Discord Backup Codes`🟢
+- `Credit Cards`🟢
+- `Fake Error`🟢
+- `Obfuscation`🟢
+- `Condense .Exe Size`🟢
+- `Icon For .Exe (optional)`🟢
+- `Add File To Startup`🟢
+- `Anti Spam (just prevents from multiple instances running at once)`🟢
+- `Bypass Token Protector`🟡
+- `Binder`🟡
+- `WebCam Screenshot (optional)`🟡
 
 
 🟢 = Added  | 🟡 = To Do  | 🔴 = Not Adding
@@ -73,3 +99,8 @@ this to your victims.😈
 ![image](https://user-images.githubusercontent.com/116742327/198694318-193f7d1a-3259-4d51-b531-0e0e521cee48.png)
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
+![image](https://user-images.githubusercontent.com/116742327/198696468-03c856a0-c615-439e-8b23-b6dcdfe6819b.png)
+
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
