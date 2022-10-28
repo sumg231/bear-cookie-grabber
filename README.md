@@ -68,3 +68,6 @@ The .exe file will appear in the same folder where all the other files are with 
 this to your victims.😈
 ```
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+### GUI
+![image](https://user-images.githubusercontent.com/116742327/198694318-193f7d1a-3259-4d51-b531-0e0e521cee48.png)
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
