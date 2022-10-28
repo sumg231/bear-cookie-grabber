@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
- bear-cookie-grabber is a tool that allows you to steal a cookie with a photo and sends it to you webhook!
+ bear-cookie-grabber is a tool that allows you to steal a cookie with a .exe and sends it to you webhook!
 </h2>
 
 <div align="center">
